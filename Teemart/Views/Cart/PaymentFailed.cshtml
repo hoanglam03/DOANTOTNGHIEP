@@ -1,0 +1,85 @@
+﻿@model Nhom9.Models.HoaDon
+@{
+    ViewBag.Title = "Thanh toán thất bại";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var info = System.Globalization.CultureInfo.GetCultureInfo("vi-VN");
+}
+
+<div class="breadcrumb-area mt-30">
+    <div class="container">
+        <div class="breadcrumb">
+            <ul class="d-flex align-items-center">
+                <li>@Html.ActionLink("Trang chủ", "Index", "Home")</li>
+                <li class="active">Thanh toán thất bại</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card border-0 shadow">
+                <div class="card-body text-center p-5">
+                    <div class="mb-4">
+                        <i class="fas fa-times-circle text-danger" style="font-size: 80px;"></i>
+                    </div>
+                    <h2 class="mb-4">Thanh toán thất bại!</h2>
+                    <p class="lead mb-4">Đã xảy ra lỗi trong quá trình thanh toán. Vui lòng thử lại hoặc chọn phương thức thanh toán khác.</p>
+
+                    <div class="order-details mt-4 mb-4">
+                        <div class="row">
+                            <div class="col-md-6 text-md-right">
+                                <p><strong>Mã đơn hàng:</strong></p>
+                            </div>
+                            
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 text-md-right">
+                                <p><strong>Ngày đặt hàng:</strong></p>
+                            </div>
+                            
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6 text-md-right">
+                                <p><strong>Tổng tiền:</strong></p>
+                            </div>
+                           
+                        </div>
+                    </div>
+
+                    <div class="mt-4">
+                        <a href="@Url.Action("Index", "Home")" class="btn btn-primary mr-2">Tiếp tục mua sắm</a>
+                        <a href="#" class="btn btn-success">Thử lại thanh toán</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    <script>
+        function retryPayment(orderCode, amount) {
+            $.ajax({
+                url: '@Url.Action("PaymentWithVNPay", "Cart")',
+                type: 'POST',
+                data: {
+                    orderCode: orderCode,
+                    amount: amount,
+                    paymentMethod: 'vnpay'
+                },
+                success: function (res) {
+                    if (res.status) {
+                        window.location.href = res.redirectUrl;
+                    } else {
+                        alert(res.message);
+                    }
+                },
+                error: function (err) {
+                    alert('Có lỗi xảy ra khi xử lý thanh toán. Vui lòng thử lại!');
+                }
+            });
+        }
+    </script>
+}

@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "Xác nhận thanh toán";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5 mb-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header text-center">
+                    <h3>Kết quả thanh toán</h3>
+                </div>
+                <div class="card-body text-center">
+                    @if (ViewBag.ThanhToan == "Thành công")
+                    {
+                        <div class="alert alert-success">
+                            <h4><i class="fa fa-check-circle"></i> Thanh toán thành công!</h4>
+                        </div>
+                        <p>Mã đơn hàng: <strong>@ViewBag.MaDonHang</strong></p>
+                        <p>Mã giao dịch: <strong>@ViewBag.MaGiaoDich</strong></p>
+                        <p>Cảm ơn bạn đã mua hàng!</p>
+                    }
+                    else
+                    {
+                        <div class="alert alert-danger">
+                            <h4><i class="fa fa-times-circle"></i> Thanh toán thất bại!</h4>
+                        </div>
+                       
+                        <p>Vui lòng thử lại hoặc chọn phương thức thanh toán khác.</p>
+                    }
+                </div>
+                <div class="card-footer text-center">
+                    <a href="@Url.Action("Index", "Home")" class="btn btn-primary">Quay lại trang chủ</a>
+                    <a href="@Url.Action("Orders", "Cart")" class="btn btn-info">Xem giỏ hàng</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

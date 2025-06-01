@@ -1,0 +1,1315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|c:\\users\\2003h\\onedrive\\m\u00E1y t\u00EDnh\\teemart\\nhom9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\bill\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\bill\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|c:\\users\\2003h\\onedrive\\m\u00E1y t\u00EDnh\\teemart\\nhom9\\models\\sanphamchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\sanphamchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|c:\\users\\2003h\\onedrive\\m\u00E1y t\u00EDnh\\teemart\\nhom9\\views\\accountuser\\userinfor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\accountuser\\userinfor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\controllers\\accountusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\controllers\\accountusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\session\\constaintuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\session\\constaintuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\bill\\listbills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\bill\\listbills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\views\\bill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\bill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\tintuc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\tintuc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\tintuc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\tintuc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\controllers\\tintuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\tintuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\controllers\\tintuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\controllers\\tintuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\controllers\\vnpaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\controllers\\vnpaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\models\\tintuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\tintuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\views\\tintuc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\tintuc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\views\\tintuc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\tintuc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\views\\clientuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\clientuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\views\\adminuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\adminuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\filters\\staffauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\filters\\staffauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\filters\\adminauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\filters\\adminauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\data\\loginaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\data\\loginaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\views\\tintuc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\tintuc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\assets\\client\\js\\common.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\client\\js\\common.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\views\\tintuc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\tintuc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\views\\tintuc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\tintuc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\migrations\\202505221451241_addtintuctable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\migrations\\202505221451241_addtintuctable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\models\\nhom9db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\nhom9db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\migrations\\202505221409070_tencuabanmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\migrations\\202505221409070_tencuabanmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\migrations\\202505151008454_adddanhgiatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\migrations\\202505151008454_adddanhgiatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\ThongKe\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nhom9\\Areas\\Admin\\Views\\ThongKe\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\session\\constaincart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\session\\constaincart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\session\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\session\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\models\\revenuedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\revenuedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\error\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\error\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\error\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\error\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\models\\taikhoanquantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\taikhoanquantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\assets\\client\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\assets\\client\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\home\\dropdowncategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\home\\dropdowncategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\models\\danhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\danhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\cart\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\cart\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\cart\\paymentfailed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\cart\\paymentfailed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\views\\home\\cartcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\views\\home\\cartcount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\views\\home\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\controllers\\clientusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\clientusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\nhom9\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B638655-5868-478F-BE81-FA2A54319169}|Nhom9\\Nhom9.csproj|solutionrelative:nhom9\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SanPhamChiTiet.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\SanPhamChiTiet.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\SanPhamChiTiet.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\SanPhamChiTiet.cs",
+              "RelativeToolTip": "Nhom9\\Models\\SanPhamChiTiet.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:14:38.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Bill\\Details.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Bill\\Details.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Bill\\Details.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Bill\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwDYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T11:43:05.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\SanPham.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\SanPham.cs",
+              "RelativeToolTip": "Nhom9\\Models\\SanPham.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:54:38.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserInfor.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\AccountUser\\UserInfor.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\AccountUser\\UserInfor.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\AccountUser\\UserInfor.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\AccountUser\\UserInfor.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T05:08:19.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BillController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Controllers\\BillController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Controllers\\BillController.cs",
+              "RelativeToolTip": "Nhom9\\Controllers\\BillController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:44:31.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwE0BAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T03:31:57.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAgwJoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T10:56:57.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountUserController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Controllers\\AccountUserController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Controllers\\AccountUserController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Controllers\\AccountUserController.cs",
+              "RelativeToolTip": "Nhom9\\Controllers\\AccountUserController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:25:01.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConstaintUser.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Session\\ConstaintUser.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Session\\ConstaintUser.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Session\\ConstaintUser.cs",
+              "RelativeToolTip": "Nhom9\\Session\\ConstaintUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:33:51.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Nhom9\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:08:25.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListBills.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Bill\\ListBills.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Bill\\ListBills.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Bill\\ListBills.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Bill\\ListBills.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T11:42:58.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\HoaDon.cs",
+              "RelativeToolTip": "Nhom9\\Models\\HoaDon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:58:09.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VNPayController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Controllers\\VNPayController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Controllers\\VNPayController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Controllers\\VNPayController.cs",
+              "RelativeToolTip": "Nhom9\\Controllers\\VNPayController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:24:14.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\Bill\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\Bill\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\Bill\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\Bill\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAANQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T14:43:55.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\OrderSuccess.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\OrderSuccess.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\OrderSuccess.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\OrderSuccess.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:23:32.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAYAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T14:26:20.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TinTucController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Controllers\\TinTucController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Controllers\\TinTucController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Controllers\\TinTucController.cs",
+              "RelativeToolTip": "Nhom9\\Controllers\\TinTucController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T01:32:26.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\TinTuc\\Details.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\TinTuc\\Details.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\TinTuc\\Details.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\TinTuc\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T01:37:13.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TinTucController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\TinTucController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\TinTucController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\TinTucController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\TinTucController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswDAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:53:34.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\TinTuc\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\TinTuc\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\TinTuc\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\TinTuc\\Index.cshtml",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAgwMEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T06:01:43.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwF4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T03:31:54.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Nhom9\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Nhom9\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:42:21.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TinTuc.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\TinTuc.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\TinTuc.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\TinTuc.cs",
+              "RelativeToolTip": "Nhom9\\Models\\TinTuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:50:27.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\TinTuc\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\TinTuc\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\TinTuc\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\TinTuc\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T15:10:24.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\TinTuc\\Create.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\TinTuc\\Create.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\TinTuc\\Create.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\TinTuc\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwDgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T15:10:45.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAgwOgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T09:33:36.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\AdminUser\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\AdminUser\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\AdminUser\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\AdminUser\\Index.cshtml",
+              "ViewState": "AgIAANAAAAAAAAAAAAAgwO0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T13:31:47.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAALMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T13:39:32.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Filters\\AdminAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Filters\\AdminAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Filters\\AdminAuthorizeAttribute.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Filters\\AdminAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:50:10.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAE8BAAAAAAAAAAAuwF4BAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T14:38:39.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\ClientUser\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\ClientUser\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\ClientUser\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\ClientUser\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T13:31:51.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StaffAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Filters\\StaffAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Filters\\StaffAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Filters\\StaffAuthorizeAttribute.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Filters\\StaffAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:50:12.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Web.Release.config",
+              "RelativeDocumentMoniker": "Nhom9\\Web.Release.config",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Web.Release.config",
+              "RelativeToolTip": "Nhom9\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-30T00:38:45.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Web.config",
+              "RelativeDocumentMoniker": "Nhom9\\Web.config",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Web.config",
+              "RelativeToolTip": "Nhom9\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-15T09:35:07.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Nhom9\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Web.Debug.config",
+              "RelativeToolTip": "Nhom9\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-30T00:38:47.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:38:31.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginAccount.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Data\\LoginAccount.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Data\\LoginAccount.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Data\\LoginAccount.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Data\\LoginAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:39:15.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:17:36.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AdminUserController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\AdminUserController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\AdminUserController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\AdminUserController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\AdminUserController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:11:33.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "common.js",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Assets\\Client\\js\\common.js",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Client\\js\\common.js",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Assets\\Client\\js\\common.js",
+              "RelativeToolTip": "Nhom9\\Assets\\Client\\js\\common.js",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAcwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-05T10:55:34.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\TinTuc\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\TinTuc\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\TinTuc\\Edit.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\TinTuc\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T15:11:05.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\TinTuc\\Details.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\TinTuc\\Details.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\TinTuc\\Details.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\TinTuc\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T15:16:04.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\TinTuc\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\TinTuc\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\TinTuc\\Delete.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\TinTuc\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T15:16:21.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:17:46.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "202505221451241_AddTinTucTable.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Migrations\\202505221451241_AddTinTucTable.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Migrations\\202505221451241_AddTinTucTable.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Migrations\\202505221451241_AddTinTucTable.cs",
+              "RelativeToolTip": "Nhom9\\Migrations\\202505221451241_AddTinTucTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:51:29.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Nhom9\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwGkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:24:20.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Nhom9DB.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\Nhom9DB.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\Nhom9DB.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\Nhom9DB.cs",
+              "RelativeToolTip": "Nhom9\\Models\\Nhom9DB.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:52:06.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "202505221409070_TenCuaBanMigration.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Migrations\\202505221409070_TenCuaBanMigration.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Migrations\\202505221409070_TenCuaBanMigration.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Migrations\\202505221409070_TenCuaBanMigration.cs",
+              "RelativeToolTip": "Nhom9\\Migrations\\202505221409070_TenCuaBanMigration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:09:12.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Nhom9\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:06:07.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "202505151008454_AddDanhGiaTable.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Migrations\\202505151008454_AddDanhGiaTable.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Migrations\\202505151008454_AddDanhGiaTable.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Migrations\\202505151008454_AddDanhGiaTable.cs",
+              "RelativeToolTip": "Nhom9\\Migrations\\202505151008454_AddDanhGiaTable.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:08:50.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\ThongKe\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\ThongKe\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\ThongKe\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\ThongKe\\Index.cshtml",
+              "ViewState": "AgIAABsCAAAAAAAAAAAUwCACAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T13:33:36.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T13:32:00.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ConstainCart.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Session\\ConstainCart.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Session\\ConstainCart.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Session\\ConstainCart.cs",
+              "RelativeToolTip": "Nhom9\\Session\\ConstainCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:33:54.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Session\\LoginUser.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Session\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Session\\LoginUser.cs",
+              "RelativeToolTip": "Nhom9\\Session\\LoginUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:33:49.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RevenueData.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\RevenueData.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\RevenueData.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\RevenueData.cs",
+              "RelativeToolTip": "Nhom9\\Models\\RevenueData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:59:28.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Error\\Error.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Error\\Error.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Error\\Error.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Error\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T04:02:33.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PageNotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Error\\PageNotFound.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Error\\PageNotFound.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Error\\PageNotFound.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Error\\PageNotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T04:02:35.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Product\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Product\\ProductDetail.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Product\\ProductDetail.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Product\\ProductDetail.cshtml",
+              "ViewState": "AgIAAL8CAAAAAAAAAADwv9ACAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T12:20:38.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TaiKhoanQuanTri.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\TaiKhoanQuanTri.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\TaiKhoanQuanTri.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\TaiKhoanQuanTri.cs",
+              "RelativeToolTip": "Nhom9\\Models\\TaiKhoanQuanTri.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:59:27.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "font-awesome.min.css",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Assets\\Client\\css\\font-awesome.min.css",
+              "RelativeDocumentMoniker": "Nhom9\\Assets\\Client\\css\\font-awesome.min.css",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Assets\\Client\\css\\font-awesome.min.css",
+              "RelativeToolTip": "Nhom9\\Assets\\Client\\css\\font-awesome.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-21T15:37:31.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Product\\Shop.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Product\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Product\\Shop.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Product\\Shop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T11:52:12.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DropdownCategories.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Home\\DropdownCategories.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Home\\DropdownCategories.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Home\\DropdownCategories.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Home\\DropdownCategories.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T04:01:38.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Home\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Home\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Home\\SignUp.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Home\\SignUp.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBoAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:00:58.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Nhom9\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:45:36.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DanhGia.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\DanhGia.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\DanhGia.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\DanhGia.cs",
+              "RelativeToolTip": "Nhom9\\Models\\DanhGia.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:08:03.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CheckOut.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Cart\\CheckOut.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Cart\\CheckOut.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Cart\\CheckOut.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Cart\\CheckOut.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T04:57:00.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:17:50.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:17:48.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "PaymentFailed.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Cart\\PaymentFailed.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Cart\\PaymentFailed.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Cart\\PaymentFailed.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Cart\\PaymentFailed.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T11:34:38.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\DanhMuc.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\DanhMuc.cs",
+              "RelativeToolTip": "Nhom9\\Models\\DanhMuc.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T04:02:07.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Models\\ChiTietHoaDon.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Models\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "Nhom9\\Models\\ChiTietHoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:02:09.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Cart\\OrderConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Cart\\OrderConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T03:36:03.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Cart\\Orders.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Cart\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Cart\\Orders.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Cart\\Orders.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T03:35:08.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ThongKeController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAkwKIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:22:12.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T09:00:55.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CartCount.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Home\\CartCount.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Views\\Home\\CartCount.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Views\\Home\\CartCount.cshtml",
+              "RelativeToolTip": "Nhom9\\Views\\Home\\CartCount.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T14:26:18.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Views\\Home\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Views\\Home\\AccessDenied.cshtml",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Views\\Home\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T13:31:55.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ClientUserController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\ClientUserController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\ClientUserController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\ClientUserController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\ClientUserController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:17:39.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:17:38.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "BillController.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "Nhom9\\Areas\\Admin\\Controllers\\BillController.cs",
+              "ToolTip": "C:\\Users\\2003h\\OneDrive\\M\u00E1y t\u00EDnh\\TEEMART\\Nhom9\\Areas\\Admin\\Controllers\\BillController.cs",
+              "RelativeToolTip": "Nhom9\\Areas\\Admin\\Controllers\\BillController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:11:42.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

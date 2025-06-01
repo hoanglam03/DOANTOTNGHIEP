@@ -1,0 +1,31 @@
+﻿@model Nhom9.Models.HoaDon
+@{
+    ViewBag.Title = "Xác nhận đơn hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5 mb-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header text-center">
+                    <h3>Đặt hàng thành công</h3>
+                </div>
+                <div class="card-body text-center">
+                    <div class="alert alert-success">
+                        <h4><i class="fa fa-check-circle"></i> Đơn hàng của bạn đã được đặt thành công!</h4>
+                    </div>
+                    <p>Mã đơn hàng: <strong>@Model.MaHD</strong></p>
+                    <p>Ngày đặt: <strong>@Model.NgayDat.ToString("dd/MM/yyyy HH:mm")</strong></p>
+                    
+                    <p>Trạng thái: <strong>@Model.TrangThai</strong></p>
+                    <p>Cảm ơn bạn đã mua hàng!</p>
+                </div>
+                <div class="card-footer text-center">
+                    <a href="@Url.Action("Index", "Home")" class="btn btn-primary">Quay lại trang chủ</a>
+                    <a href="@Url.Action("Orders", "Cart")" class="btn btn-info">Tiếp tục mua sắm</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

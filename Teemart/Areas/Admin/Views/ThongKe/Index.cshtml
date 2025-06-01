@@ -1,0 +1,571 @@
+﻿@{
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+    var topSellingProducts = ViewBag.TopSellingProducts as IEnumerable<Nhom9.Models.TopSellingProductsItem>
+    ;
+    var slowSellingProducts = ViewBag.SlowestSellingProducts as IEnumerable<Nhom9.Models.SlowestSellingProduct>
+        ;
+        var dailyRevenue = ViewBag.DailyRevenue as IEnumerable<Nhom9.Models.RevenueData>
+            ;
+            var weeklyRevenue = ViewBag.WeeklyRevenue as IEnumerable<Nhom9.Models.WeeklyRevenueData>
+                ;
+                var monthlyRevenue = ViewBag.MonthlyRevenue as IEnumerable<Nhom9.Models.MonthlyRevenueData>
+                    ;
+                    var yearlyRevenue = ViewBag.YearlyRevenue as IEnumerable<Nhom9.Models.YearlyRevenueData>
+                        ;
+                        var categoryData = ViewBag.CategoryData;
+                        }
+                        @model PagedList.IPagedList<Nhom9.Models.SanPham>
+                            @using PagedList.Mvc
+
+                            @{
+                            ViewBag.Title = "Thống Kê Sản Phẩm";
+                            }
+
+                            <div class="container">
+                                <h1 class="mt-4">Thống Kê Sản Phẩm</h1>
+
+                               <!-- Thống kê doanh thu -->
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header bg-primary text-white">
+                <h3 class="card-title mb-0">Thống Kê Doanh Thu</h3>
+            </div>
+            <div class="card-body">
+                <div class="mb-3 row align-items-end">
+                    <div class="col-md-3">
+                        <label for="revenueType" class="form-label">Chọn kiểu thống kê:</label>
+                        <select id="revenueType" class="form-select">
+                            <option value="daily">7 ngày gần nhất</option>
+                            <option value="weekly">4 tuần gần nhất</option>
+                            <option value="monthly">6 tháng gần nhất</option>
+                            <option value="yearly">1 năm gần nhất</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <label for="startDate" class="form-label">Từ ngày:</label>
+                        <input type="date" id="startDate" class="form-control" />
+                    </div>
+                    <div class="col-md-3">
+                        <label for="endDate" class="form-label">Đến ngày:</label>
+                        <input type="date" id="endDate" class="form-control" />
+                    </div>
+                    <div class="col-md-3">
+                        <button id="btnThongKe" class="btn btn-success w-100">Tìm kiếm</button>
+                    </div>
+                </div>
+
+                <div style="height: 400px;">
+                    <canvas id="revenueChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+                                <!-- Thống kê sản phẩm bán chạy và bán chậm -->
+                                <div class="row mt-4">
+                                    <div class="col-md-6">
+                                        <div class="card">
+                                            <div class="card-header bg-success text-white">
+                                                <h3 class="card-title mb-0">Top 10 Sản Phẩm Bán Chạy</h3>
+                                            </div>
+                                            <div class="card-body">
+                                                <table class="table table-bordered table-striped">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>STT</th>
+                                                            <th>Tên sản phẩm</th>
+                                                            <th>Giá</th>
+                                                            <th>Đã bán</th>
+                                                            <th>Doanh thu</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        @if (topSellingProducts != null && topSellingProducts.Any())
+                                                        {
+                                                        int index = 1;
+                                                        foreach (var product in topSellingProducts)
+                                                        {
+                                                        <tr>
+                                                            <td>@index</td>
+                                                            <td>@product.TenSP</td>
+                                                            <td>@product.Gia.ToString("N0") đ</td>
+                                                            <td>@product.TotalSold</td>
+                                                            <td>@product.TotalRevenue.ToString("N0") đ</td>
+                                                        </tr>
+                                                        index++;
+                                                        }
+                                                        }
+                                                        else
+                                                        {
+                                                        <tr>
+                                                            <td colspan="5" class="text-center">Không có dữ liệu</td>
+                                                        </tr>
+                                                        }
+                                                    </tbody>
+                                                </table>
+                                                <div class="mt-3">
+                                                    <canvas id="topProductsChart" height="250"></canvas>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="card">
+                                            <div class="card-header bg-warning text-dark">
+                                                <h3 class="card-title mb-0">Top 10 Sản Phẩm Bán Chậm</h3>
+                                            </div>
+                                            <div class="card-body">
+                                                <table class="table table-bordered table-striped">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>STT</th>
+                                                            <th>Tên sản phẩm</th>
+                                                            <th>Giá</th>
+                                                            <th>Đã bán</th>
+                                                           
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        @if (slowSellingProducts != null && slowSellingProducts.Any())
+                                                        {
+                                                        int index = 1;
+                                                        foreach (var product in slowSellingProducts)
+                                                        {
+                                                        <tr>
+                                                            <td>@index</td>
+                                                            <td>@product.TenSP</td>
+                                                            <td>@product.Gia.ToString("N0") đ</td>
+                                                            <td>@product.TotalSold</td>
+                                                           
+                                                        </tr>
+                                                        index++;
+                                                        }
+                                                        }
+                                                        else
+                                                        {
+                                                        <tr>
+                                                            <td colspan="5" class="text-center">Không có dữ liệu</td>
+                                                        </tr>
+                                                        }
+                                                    </tbody>
+                                                </table>
+                                                <div class="mt-3">
+                                                    <canvas id="slowProductsChart" height="250"></canvas>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Thống kê sản phẩm theo danh mục -->
+                                <div class="row mt-4">
+                                    <div class="col-12">
+                                        <div class="card">
+                                            <div class="card-header bg-info text-white">
+                                                <h3 class="card-title mb-0">Thống Kê Sản Phẩm Theo Danh Mục</h3>
+                                            </div>
+                                            <div class="card-body">
+                                                <div style="height: 400px;">
+                                                    <canvas id="categoryChart"></canvas>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Danh sách sản phẩm -->
+                                <div class="row mt-4">
+                                    <div class="col-12">
+                                        <div class="card">
+                                            <div class="card-header bg-secondary text-white">
+                                                <h3 class="card-title mb-0">Danh Sách Sản Phẩm</h3>
+                                            </div>
+                                            <div class="card-body">
+                                                <table class="table table-bordered table-striped">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Mã Sản Phẩm</th>
+                                                            <th>Tên Sản Phẩm</th>
+                                                            <th>Danh Mục</th>
+                                                            <th>Giá</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        @foreach (var item in Model)
+                                                        {
+                                                        <tr>
+                                                            <td>@item.MaSP</td>
+                                                            <td>@item.TenSP</td>
+                                                            <td>@item.MaDM</td>
+                                                            <td>@item.Gia.ToString("N0") đ</td>
+                                                        </tr>
+                                                        }
+                                                    </tbody>
+                                                </table>
+                                                <div class="pagination-container">
+                                                    @Html.PagedListPager(
+                                                    Model,
+                                                    page => Url.Action("Index", new { page }),
+                                                    new PagedListRenderOptions
+                                                    {
+                                                    DisplayPageCountAndCurrentLocation = true,
+                                                    DisplayLinkToFirstPage = PagedListDisplayMode.Always,
+                                                    DisplayLinkToLastPage = PagedListDisplayMode.Always,
+                                                    DisplayLinkToPreviousPage = PagedListDisplayMode.Always,
+                                                    DisplayLinkToNextPage = PagedListDisplayMode.Always,
+                                                    MaximumPageNumbersToDisplay = 5
+                                                    }
+                                                    )
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <style>
+                                .pagination-container {
+                                    margin-top: 20px;
+                                    text-align: center;
+                                }
+
+                                .pagination {
+                                    display: inline-flex;
+                                    list-style-type: none;
+                                    padding: 0;
+                                }
+
+                                    .pagination li {
+                                        margin: 0 5px;
+                                    }
+
+                                        .pagination li a, .pagination li span {
+                                            display: block;
+                                            padding: 5px 10px;
+                                            color: #007bff;
+                                            border: 1px solid #ddd;
+                                            text-decoration: none;
+                                        }
+
+                                        .pagination li.active span {
+                                            background-color: #007bff;
+                                            color: white;
+                                            border-color: #007bff;
+                                        }
+
+                                        .pagination li a:hover {
+                                            background-color: #f8f9fa;
+                                        }
+
+                                .card {
+                                    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+                                    border-radius: 8px;
+                                    overflow: hidden;
+                                }
+
+                                .card-header {
+                                    padding: 15px;
+                                }
+
+                                .card-body {
+                                    padding: 20px;
+                                }
+
+                                .table {
+                                    margin-bottom: 0;
+                                }
+                            </style>
+
+                            <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+                            <script>
+                                document.addEventListener("DOMContentLoaded", function () {
+                                    // Dữ liệu thống kê doanh thu
+                                    const dailyRevenueData = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(dailyRevenue));
+                                    const weeklyRevenueData = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(weeklyRevenue));
+                                    const monthlyRevenueData = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(monthlyRevenue));
+                                    const yearlyRevenueData = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(yearlyRevenue));
+
+                                    // Dữ liệu sản phẩm bán chạy và bán chậm
+                                    const topSellingProducts = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(topSellingProducts));
+                                    const slowSellingProducts = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(slowSellingProducts));
+
+                                    // Dữ liệu danh mục
+                                    const categoryData = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(categoryData));
+
+                                    // Biểu đồ doanh thu
+                                    const revenueCtx = document.getElementById('revenueChart').getContext('2d');
+                                    let revenueChart;
+
+                                    function updateRevenueChart(type) {
+                                        if (revenueChart) revenueChart.destroy();
+
+                                        let labels, revenues, orderCounts, title, chartType;
+
+                                        switch (type) {
+                                            case "daily":
+                                                labels = dailyRevenueData.map(item => item.Date);
+                                                revenues = dailyRevenueData.map(item => item.Revenue);
+                                                orderCounts = dailyRevenueData.map(item => item.OrderCount);
+                                                title = "Doanh thu 7 ngày gần nhất";
+                                                chartType = "bar";
+                                                break;
+                                            case "weekly":
+                                                labels = weeklyRevenueData.map(item => `Tuần ${item.WeekNumber} (${item.StartDate} - ${item.EndDate})`);
+                                                revenues = weeklyRevenueData.map(item => item.Revenue);
+                                                orderCounts = weeklyRevenueData.map(item => item.OrderCount);
+                                                title = "Doanh thu 4 tuần gần nhất";
+                                                chartType = "bar";
+                                                break;
+                                            case "monthly":
+                                                labels = monthlyRevenueData.map(item => item.MonthName);
+                                                revenues = monthlyRevenueData.map(item => item.Revenue);
+                                                orderCounts = monthlyRevenueData.map(item => item.OrderCount);
+                                                title = "Doanh thu 6 tháng gần nhất";
+                                                chartType = "line";
+                                                break;
+                                            case "yearly":
+                                                labels = yearlyRevenueData.map(item => item.Year.toString());
+                                                revenues = yearlyRevenueData.map(item => item.Revenue);
+                                                orderCounts = yearlyRevenueData.map(item => item.OrderCount);
+                                                title = "Doanh thu  năm gần nhất";
+                                                chartType = "line";
+                                                break;
+                                        }
+
+                                        revenueChart = new Chart(revenueCtx, {
+                                            type: chartType,
+                                            data: {
+                                                labels: labels,
+                                                datasets: [
+                                                    {
+                                                        label: 'Doanh thu (VNĐ)',
+                                                        data: revenues,
+                                                        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                                                        borderColor: 'rgba(54, 162, 235, 1)',
+                                                        borderWidth: 1,
+                                                        yAxisID: 'y',
+                                                        tension: chartType === "line" ? 0.4 : 0
+                                                    },
+                                                    {
+                                                        label: 'Số đơn hàng',
+                                                        data: orderCounts,
+                                                        backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                                                        borderColor: 'rgba(255, 99, 132, 1)',
+                                                        borderWidth: 1,
+                                                        yAxisID: 'y1',
+                                                        type: 'line',
+                                                        tension: 0.4
+                                                    }
+                                                ]
+                                            },
+                                            options: {
+                                                responsive: true,
+                                                maintainAspectRatio: false,
+                                                plugins: {
+                                                    title: {
+                                                        display: true,
+                                                        text: title,
+                                                        font: {
+                                                            size: 16
+                                                        }
+                                                    },
+                                                    tooltip: {
+                                                        callbacks: {
+                                                            label: function (context) {
+                                                                if (context.dataset.label === 'Doanh thu (VNĐ)') {
+                                                                    return context.raw.toLocaleString('vi-VN') + ' đ';
+                                                                } else {
+                                                                    return context.raw + ' đơn';
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                scales: {
+                                                    y: {
+                                                        beginAtZero: true,
+                                                        position: 'left',
+                                                        title: {
+                                                            display: true,
+                                                            text: 'Doanh thu (VNĐ)'
+                                                        },
+                                                        ticks: {
+                                                            callback: function (value) {
+                                                                return value.toLocaleString('vi-VN') + ' đ';
+                                                            }
+                                                        }
+                                                    },
+                                                    y1: {
+                                                        beginAtZero: true,
+                                                        position: 'right',
+                                                        title: {
+                                                            display: true,
+                                                            text: 'Số đơn hàng'
+                                                        },
+                                                        grid: {
+                                                            drawOnChartArea: false
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        });
+                                    }
+
+                                    // Biểu đồ sản phẩm bán chạy
+                                    const topProductsCtx = document.getElementById('topProductsChart').getContext('2d');
+                                    const topProductsChart = new Chart(topProductsCtx, {
+                                        type: 'bar',
+                                        data: {
+                                            labels: topSellingProducts.map(item => item.TenSP),
+                                            datasets: [{
+                                                label: 'Số lượng đã bán',
+                                                data: topSellingProducts.map(item => item.TotalSold),
+                                                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                                                borderColor: 'rgba(75, 192, 192, 1)',
+                                                borderWidth: 1
+                                            }]
+                                        },
+                                        options: {
+                                            indexAxis: 'y',
+                                            responsive: true,
+                                            maintainAspectRatio: false,
+                                            plugins: {
+                                                title: {
+                                                    display: true,
+                                                    text: 'Top 10 sản phẩm bán chạy nhất',
+                                                    font: {
+                                                        size: 14
+                                                    }
+                                                },
+                                                legend: {
+                                                    display: false
+                                                }
+                                            },
+                                            scales: {
+                                                x: {
+                                                    beginAtZero: true,
+                                                    title: {
+                                                        display: true,
+                                                        text: 'Số lượng đã bán'
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    });
+
+                                    // Biểu đồ sản phẩm bán chậm
+                                    const slowProductsCtx = document.getElementById('slowProductsChart').getContext('2d');
+                                    const slowProductsChart = new Chart(slowProductsCtx, {
+                                        type: 'bar',
+                                        data: {
+                                            labels: slowSellingProducts.map(item => item.TenSP),
+                                            datasets: [{
+                                                label: 'Số lượng đã bán',
+                                                data: slowSellingProducts.map(item => item.TotalSold),
+                                                backgroundColor: 'rgba(255, 159, 64, 0.2)',
+                                                borderColor: 'rgba(255, 159, 64, 1)',
+                                                borderWidth: 1
+                                            }]
+                                        },
+                                        options: {
+                                            indexAxis: 'y',
+                                            responsive: true,
+                                            maintainAspectRatio: false,
+                                            plugins: {
+                                                title: {
+                                                    display: true,
+                                                    text: 'Top 10 sản phẩm bán chậm nhất',
+                                                    font: {
+                                                        size: 14
+                                                    }
+                                                },
+                                                legend: {
+                                                    display: false
+                                                }
+                                            },
+                                            scales: {
+                                                x: {
+                                                    beginAtZero: true,
+                                                    title: {
+                                                        display: true,
+                                                        text: 'Số lượng đã bán'
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    });
+
+                                    // Biểu đồ danh mục
+                                    const categoryCtx = document.getElementById('categoryChart').getContext('2d');
+                                    const categoryChart = new Chart(categoryCtx, {
+                                        type: 'pie',
+                                        data: {
+                                            labels: categoryData.map(c => c.TenDM || c.MaDM),
+                                            datasets: [{
+                                                label: 'Số lượng sản phẩm',
+                                                data: categoryData.map(c => c.SoLuongSanPham),
+                                                backgroundColor: [
+                                                    'rgba(255, 99, 132, 0.6)',
+                                                    'rgba(54, 162, 235, 0.6)',
+                                                    'rgba(255, 206, 86, 0.6)',
+                                                    'rgba(75, 192, 192, 0.6)',
+                                                    'rgba(153, 102, 255, 0.6)',
+                                                    'rgba(255, 159, 64, 0.6)',
+                                                    'rgba(199, 199, 199, 0.6)',
+                                                    'rgba(83, 102, 255, 0.6)',
+                                                    'rgba(40, 159, 64, 0.6)',
+                                                    'rgba(210, 199, 199, 0.6)'
+                                                ],
+                                                borderColor: [
+                                                    'rgba(255, 99, 132, 1)',
+                                                    'rgba(54, 162, 235, 1)',
+                                                    'rgba(255, 206, 86, 1)',
+                                                    'rgba(75, 192, 192, 1)',
+                                                    'rgba(153, 102, 255, 1)',
+                                                    'rgba(255, 159, 64, 1)',
+                                                    'rgba(199, 199, 199, 1)',
+                                                    'rgba(83, 102, 255, 1)',
+                                                    'rgba(40, 159, 64, 1)',
+                                                    'rgba(210, 199, 199, 1)'
+                                                ],
+                                                borderWidth: 1
+                                            }]
+                                        },
+                                        options: {
+                                            responsive: true,
+                                            maintainAspectRatio: false,
+                                            plugins: {
+                                                title: {
+                                                    display: true,
+                                                    text: 'Phân bố sản phẩm theo danh mục',
+                                                    font: {
+                                                        size: 16
+                                                    }
+                                                },
+                                                tooltip: {
+                                                    callbacks: {
+                                                        label: function (context) {
+                                                            const label = context.label || '';
+                                                            const value = context.raw || 0;
+                                                            const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                                                            const percentage = Math.round((value / total) * 100);
+                                                            return `${label}: ${value} sản phẩm (${percentage}%)`;
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    });
+
+                                    // Xử lý sự kiện thay đổi loại thống kê doanh thu
+                                    document.getElementById('revenueType').addEventListener('change', function () {
+                                        updateRevenueChart(this.value);
+                                    });
+
+                                    // Khởi tạo biểu đồ doanh thu mặc định (theo ngày)
+                                    updateRevenueChart("daily");
+                                });
+                            </script>

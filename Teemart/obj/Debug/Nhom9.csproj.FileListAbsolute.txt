@@ -1,0 +1,1120 @@
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\Nhom9.dll.config
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\Nhom9.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\Nhom9.pdb
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\csc.exe
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\csc.exe.config
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\csc.rsp
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\csi.exe
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\csi.exe.config
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\csi.rsp
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.AppContext.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Console.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Net.Http.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.ValueTuple.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\vbc.exe
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\vbc.exe.config
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\vbc.rsp
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\System.Web.Helpers.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\System.Web.Mvc.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\System.Web.Razor.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\System.Web.Webpages.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\System.Web.Razor.xml
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\System.Web.Webpages.xml
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.xml
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\System.Web.Helpers.xml
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\System.Web.Mvc.xml
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CoreCompileInputs.cache
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CopyComplete
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\obj\Debug\Nhom9.dll
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\obj\Debug\Nhom9.pdb
+C:\Users\mrloc\Desktop\BTL_ASP.NET\Nhom9\Nhom9\obj\Debug\Nhom9.csprojAssemblyReference.cache
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\Nhom9.dll.config
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\Nhom9.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\Nhom9.pdb
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\csc.exe
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\csc.exe.config
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\csc.rsp
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\csi.exe
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\csi.exe.config
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\csi.rsp
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.AppContext.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Collections.Immutable.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Console.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Globalization.Calendars.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Net.Http.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Net.Sockets.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Reflection.Metadata.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.ValueTuple.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\vbc.exe
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\vbc.exe.config
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\vbc.rsp
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe.config
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\Microsoft.Web.Infrastructure.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\System.Web.Helpers.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\System.Web.Mvc.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\System.Web.Razor.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\System.Web.Webpages.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\System.Web.Razor.xml
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\System.Web.Webpages.xml
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.xml
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.xml
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\System.Web.Helpers.xml
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\System.Web.Mvc.xml
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\obj\Debug\Nhom9.csprojAssemblyReference.cache
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CoreCompileInputs.cache
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CopyComplete
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\obj\Debug\Nhom9.dll
+F:\Hoc Chinh\ASP\Project\Nhom9\Nhom9\obj\Debug\Nhom9.pdb
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\Nhom9.dll.config
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\Nhom9.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\Nhom9.pdb
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\csc.exe
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\csc.exe.config
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\csc.rsp
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\csi.exe
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\csi.exe.config
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\csi.rsp
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.AppContext.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Console.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Net.Http.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.ValueTuple.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\vbc.exe
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\vbc.exe.config
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\vbc.rsp
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\System.Web.Helpers.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\System.Web.Mvc.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\System.Web.Razor.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\System.Web.Webpages.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\System.Web.Razor.xml
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\System.Web.Webpages.xml
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.xml
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.xml
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\System.Web.Helpers.xml
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\System.Web.Mvc.xml
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CoreCompileInputs.cache
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CopyComplete
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\obj\Debug\Nhom9.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\obj\Debug\Nhom9.pdb
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\EntityFramework.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\EntityFramework.SqlServer.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\EntityFramework.xml
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\EntityFramework.SqlServer.xml
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\PagedList.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\PagedList.xml
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\PagedList.Mvc.dll
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\bin\PagedList.Mvc.xml
+C:\Users\mrloc\Desktop\Nhom9 (1)\Nhom9\Nhom9\obj\Debug\Nhom9.csprojAssemblyReference.cache
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\Nhom9.dll.config
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\Nhom9.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\Nhom9.pdb
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\csc.exe
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\csc.exe.config
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\csc.rsp
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\csi.exe
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\csi.exe.config
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\csi.rsp
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.AppContext.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Collections.Immutable.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Console.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Globalization.Calendars.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Net.Http.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Net.Sockets.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Reflection.Metadata.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.ValueTuple.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\vbc.exe
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\vbc.exe.config
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\vbc.rsp
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe.config
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\EntityFramework.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\EntityFramework.SqlServer.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\Microsoft.Web.Infrastructure.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\PagedList.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\PagedList.Mvc.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\System.Web.Helpers.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\System.Web.Mvc.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\System.Web.Razor.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\System.Web.Webpages.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\EntityFramework.xml
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\EntityFramework.SqlServer.xml
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\PagedList.xml
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\PagedList.Mvc.xml
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\System.Web.Razor.xml
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\System.Web.Webpages.xml
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.xml
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.xml
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\System.Web.Helpers.xml
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\System.Web.Mvc.xml
+D:\BTLASPdotNET\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BTLASPdotNET\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.AssemblyReference.cache
+D:\BTLASPdotNET\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CoreCompileInputs.cache
+D:\BTLASPdotNET\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CopyComplete
+D:\BTLASPdotNET\Nhom9\Nhom9\obj\Debug\Nhom9.dll
+D:\BTLASPdotNET\Nhom9\Nhom9\obj\Debug\Nhom9.pdb
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll.config
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.pdb
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe.config
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.rsp
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe.config
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.rsp
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.AppContext.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Console.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Http.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.ValueTuple.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe.config
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.rsp
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.AssemblyReference.cache
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CoreCompileInputs.cache
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CopyComplete
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.dll
+C:\Users\nhan2\OneDrive\Desktop\NEW\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.pdb
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll.config
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.pdb
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe.config
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.rsp
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe.config
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.rsp
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Managed.Core.targets
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.AppContext.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Collections.Immutable.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Console.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Globalization.Calendars.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Http.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Sockets.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Reflection.Metadata.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.ValueTuple.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XmlDocument.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe.config
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.rsp
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe.config
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.Web.Infrastructure.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.xml
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.xml
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.xml
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.xml
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.xml
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.xml
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.xml
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.xml
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.xml
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.xml
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.AssemblyReference.cache
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CoreCompileInputs.cache
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CopyComplete
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.dll
+D:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.pdb
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll.config
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.pdb
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe.config
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.rsp
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe.config
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.rsp
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Managed.Core.targets
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.AppContext.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Collections.Immutable.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Console.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Globalization.Calendars.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Http.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Sockets.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Reflection.Metadata.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.ValueTuple.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XmlDocument.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe.config
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.rsp
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe.config
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.Web.Infrastructure.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.xml
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.xml
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.xml
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.xml
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.xml
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.xml
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.xml
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.xml
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.xml
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.xml
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.AssemblyReference.cache
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CoreCompileInputs.cache
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.Up2Date
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.dll
+E:\web ban\BTLASP.Net_-rh99jl\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.pdb
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll.config
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.pdb
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe.config
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.rsp
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe.config
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.rsp
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.AppContext.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Console.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Http.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.ValueTuple.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe.config
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.rsp
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.xml
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.xml
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.xml
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.xml
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.xml
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.xml
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.xml
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.xml
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.xml
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.xml
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.AssemblyReference.cache
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CoreCompileInputs.cache
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.Up2Date
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.dll
+C:\Users\lam\Documents\Zalo Received Files\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.pdb
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll.config
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.pdb
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe.config
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.rsp
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe.config
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.rsp
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.AppContext.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Console.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Http.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Sockets.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.ValueTuple.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe.config
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.rsp
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.xml
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.xml
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.xml
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.xml
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.xml
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.xml
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.xml
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.xml
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.xml
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.xml
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.AssemblyReference.cache
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CoreCompileInputs.cache
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.Up2Date
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.pdb
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Newtonsoft.Json.dll
+C:\Users\KhanhSan\Documents\HaUI\DACN\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Newtonsoft.Json.xml
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll.config
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.pdb
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe.config
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.rsp
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe.config
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.rsp
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.AppContext.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Collections.Immutable.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Console.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Globalization.Calendars.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Http.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Sockets.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Reflection.Metadata.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.ValueTuple.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe.config
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.rsp
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe.config
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.Web.Infrastructure.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Newtonsoft.Json.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.xml
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.xml
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Newtonsoft.Json.xml
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.xml
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.xml
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.xml
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.xml
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.xml
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.xml
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.xml
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.xml
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.AssemblyReference.cache
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CoreCompileInputs.cache
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.Up2Date
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.dll
+C:\Học Tập\ĐỒ ÁN TỐT NGHIỆP\DATNCODE\BTLASP.Net\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.pdb
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll.config
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.pdb
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe.config
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.rsp
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe.config
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.rsp
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.AppContext.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Collections.Immutable.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Console.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Globalization.Calendars.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Http.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Sockets.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Reflection.Metadata.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.ValueTuple.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe.config
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.rsp
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe.config
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.Web.Infrastructure.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\Newtonsoft.Json.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.xml
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.xml
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\Newtonsoft.Json.xml
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.xml
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.xml
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.xml
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.xml
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.xml
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.xml
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.xml
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.xml
+D:\Games\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Games\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.AssemblyReference.cache
+D:\Games\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CoreCompileInputs.cache
+D:\Games\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.Up2Date
+D:\Games\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.dll
+D:\Games\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.pdb
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll.config
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Nhom9.pdb
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.exe.config
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csc.rsp
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.exe.config
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\csi.rsp
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.AppContext.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Collections.Immutable.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Console.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Globalization.Calendars.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Http.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Net.Sockets.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Reflection.Metadata.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.ValueTuple.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.exe.config
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\vbc.rsp
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\roslyn\VBCSCompiler.exe.config
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.Web.Infrastructure.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Newtonsoft.Json.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.xml
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\EntityFramework.SqlServer.xml
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Newtonsoft.Json.xml
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.xml
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\PagedList.Mvc.xml
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Razor.xml
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.xml
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Deployment.xml
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Webpages.Razor.xml
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Helpers.xml
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\System.Web.Mvc.xml
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.AssemblyReference.cache
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.CoreCompileInputs.cache
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.csproj.Up2Date
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.dll
+C:\CODE\BTLASP.Net\BTLASP.Net\Nhom9\Nhom9\obj\Debug\Nhom9.pdb
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\Nhom9.dll.config
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\Nhom9.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\Nhom9.pdb
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\csc.exe
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\csc.exe.config
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\csc.rsp
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\csi.exe
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\csi.exe.config
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\csi.rsp
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.AppContext.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Collections.Immutable.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Console.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Globalization.Calendars.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.IO.Compression.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.IO.FileSystem.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Net.Http.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Net.Sockets.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Reflection.Metadata.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.ValueTuple.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Xml.XPath.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\vbc.exe
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\vbc.exe.config
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\vbc.rsp
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\VBCSCompiler.exe
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\roslyn\VBCSCompiler.exe.config
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\EntityFramework.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\EntityFramework.SqlServer.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\Microsoft.Web.Infrastructure.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\Newtonsoft.Json.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\PagedList.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\PagedList.Mvc.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\System.Web.Helpers.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\System.Web.Mvc.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\System.Web.Razor.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\System.Web.Webpages.Deployment.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\System.Web.Webpages.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\System.Web.Webpages.Razor.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\EntityFramework.xml
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\EntityFramework.SqlServer.xml
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\Newtonsoft.Json.xml
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\PagedList.xml
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\PagedList.Mvc.xml
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\System.Web.Razor.xml
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\System.Web.Webpages.xml
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\System.Web.Webpages.Deployment.xml
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\System.Web.Webpages.Razor.xml
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\System.Web.Helpers.xml
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\System.Web.Mvc.xml
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\obj\Debug\Nhom9.csproj.AssemblyReference.cache
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\obj\Debug\Nhom9.csproj.CoreCompileInputs.cache
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\obj\Debug\Nhom9.csproj.Up2Date
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\obj\Debug\Nhom9.dll
+C:\CODE\BTLASP.Net\TEEMART\TEEMART\Nhom9\obj\Debug\Nhom9.pdb
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\Nhom9.dll.config
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\Nhom9.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\Nhom9.pdb
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\csc.exe
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\csc.exe.config
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\csc.rsp
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\csi.exe
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\csi.exe.config
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\csi.rsp
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.AppContext.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Console.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.IO.Compression.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Net.Http.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Net.Sockets.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.ValueTuple.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Xml.XPath.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\vbc.exe
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\vbc.exe.config
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\vbc.rsp
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\VBCSCompiler.exe
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\EntityFramework.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\EntityFramework.SqlServer.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\Newtonsoft.Json.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\PagedList.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\PagedList.Mvc.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\System.Web.Helpers.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\System.Web.Mvc.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\System.Web.Razor.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\System.Web.Webpages.Deployment.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\System.Web.Webpages.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\System.Web.Webpages.Razor.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\EntityFramework.xml
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\EntityFramework.SqlServer.xml
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\Newtonsoft.Json.xml
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\PagedList.xml
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\PagedList.Mvc.xml
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\System.Web.Razor.xml
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\System.Web.Webpages.xml
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\System.Web.Webpages.Deployment.xml
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\System.Web.Webpages.Razor.xml
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\System.Web.Helpers.xml
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\System.Web.Mvc.xml
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\obj\Debug\Nhom9.csproj.AssemblyReference.cache
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\obj\Debug\Nhom9.Migrations.AddDanhGiaTable.resources
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\obj\Debug\Nhom9.csproj.GenerateResource.cache
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\obj\Debug\Nhom9.csproj.CoreCompileInputs.cache
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\obj\Debug\Nhom9.csproj.Up2Date
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\obj\Debug\Nhom9.dll
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\obj\Debug\Nhom9.pdb
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\obj\Debug\Nhom9.Migrations.TenCuaBanMigration.resources
+C:\Users\2003h\OneDrive\Máy tính\TEEMART\Nhom9\obj\Debug\Nhom9.Migrations.AddTinTucTable.resources

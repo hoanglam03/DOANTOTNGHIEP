@@ -1,0 +1,3 @@
+﻿@model List<Nhom9.Models.ChiTietHoaDon>
+
+<a href="@Url.Action("Orders","Cart")"><i class="lnr lnr-cart"></i><span class="product-count" id="product-count">@(Model == null ? 0 : Model.Count())</span><span class="my-cart"></span></a>

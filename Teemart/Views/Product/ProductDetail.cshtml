@@ -1,0 +1,800 @@
+﻿@model Nhom9.Models.SanPham
+@{
+    ViewBag.Title = "Chi tiết sản phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var info = System.Globalization.CultureInfo.GetCultureInfo("vi-VN");
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<style>
+    :root {
+        --primary-color: #3a86ff;
+        --secondary-color: #ff006e;
+        --accent-color: #8338ec;
+        --light-bg: #f8f9fa;
+        --dark-text: #333;
+        --light-text: #6c757d;
+        --border-radius: 12px;
+        --box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        --transition: all 0.3s ease;
+    }
+
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .breadcrumb-area {
+        background-color: var(--light-bg);
+        padding: 15px 0;
+        margin-bottom: 30px;
+        border-radius: var(--border-radius);
+    }
+
+    .breadcrumb ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .breadcrumb li {
+        position: relative;
+        padding: 0 10px;
+    }
+
+        .breadcrumb li:not(:last-child)::after {
+            content: '/';
+            position: absolute;
+            right: -5px;
+            color: var(--light-text);
+        }
+
+    .breadcrumb a {
+        color: var(--primary-color);
+        text-decoration: none;
+        transition: var(--transition);
+    }
+
+        .breadcrumb a:hover {
+            color: var(--accent-color);
+        }
+
+    .product-header {
+        font-size: 2.5rem;
+        font-weight: 700;
+        color: var(--dark-text);
+        margin-bottom: 15px;
+        line-height: 1.2;
+    }
+
+    .product-image-container {
+        position: relative;
+        overflow: hidden;
+        border-radius: var(--border-radius);
+        box-shadow: var(--box-shadow);
+    }
+
+    .product-image {
+        width: 100%;
+        height: auto;
+        transition: transform 0.5s ease;
+    }
+
+        .product-image:hover {
+            transform: scale(1.05);
+        }
+
+    .category-badge {
+        display: inline-block;
+        background-color: var(--accent-color);
+        color: white;
+        padding: 5px 15px;
+        border-radius: 20px;
+        font-size: 0.9rem;
+        margin-bottom: 20px;
+    }
+
+    .price-tag {
+        font-size: 2.2rem;
+        font-weight: 700;
+        color: var(--secondary-color);
+        margin: 20px 0;
+    }
+
+    .product-description {
+        font-size: 1.1rem;
+        line-height: 1.6;
+        color: var(--dark-text);
+        margin-bottom: 30px;
+        padding: 20px;
+        background-color: var(--light-bg);
+        border-radius: var(--border-radius);
+        border-left: 4px solid var(--primary-color);
+    }
+
+    .product-options {
+        background-color: white;
+        padding: 25px;
+        border-radius: var(--border-radius);
+        box-shadow: var(--box-shadow);
+        margin-bottom: 30px;
+    }
+
+    .option-label {
+        font-weight: 600;
+        font-size: 1.1rem;
+        margin-bottom: 10px;
+        color: var(--dark-text);
+    }
+
+    .form-select, .form-control {
+        border-radius: 8px;
+        padding: 12px;
+        border: 1px solid #dee2e6;
+        transition: var(--transition);
+    }
+
+        .form-select:focus, .form-control:focus {
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 0.25rem rgba(58, 134, 255, 0.25);
+        }
+
+    .color-preview {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        border: 2px solid #dee2e6;
+    }
+
+    .quantity-control {
+        display: flex;
+        align-items: center;
+        max-width: 150px;
+    }
+
+    .quantity-btn {
+        background-color: var(--light-bg);
+        border: none;
+        width: 40px;
+        height: 40px;
+        font-size: 1.2rem;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: var(--transition);
+    }
+
+        .quantity-btn:hover {
+            background-color: #e9ecef;
+        }
+
+    .quantity-input {
+        width: 60px;
+        text-align: center;
+        border: none;
+        font-size: 1.1rem;
+        font-weight: 600;
+    }
+
+    .add-cart {
+        background-color: var(--primary-color);
+        color: white;
+        border: none;
+        padding: 15px 30px;
+        border-radius: 30px;
+        font-size: 1.1rem;
+        font-weight: 600;
+        transition: var(--transition);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+    }
+
+        .add-cart:hover {
+            background-color: #2563eb;
+            transform: translateY(-2px);
+        }
+
+        .add-cart:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .add-cart i {
+            font-size: 1.2rem;
+        }
+
+    .tabs-area {
+        display: flex;
+        gap: 10px;
+        border-bottom: 1px solid #dee2e6;
+        padding: 0;
+        margin-bottom: 20px;
+    }
+
+        .tabs-area li {
+            list-style: none;
+        }
+
+            .tabs-area li a {
+                display: block;
+                padding: 15px 25px;
+                text-decoration: none;
+                font-weight: 600;
+                color: var(--light-text);
+                border-bottom: 3px solid transparent;
+                transition: var(--transition);
+            }
+
+                .tabs-area li a.active, .tabs-area li a:hover {
+                    color: var(--primary-color);
+                    border-bottom: 3px solid var(--primary-color);
+                }
+
+    .tab-content {
+        background-color: white;
+        padding: 30px;
+        border-radius: var(--border-radius);
+        box-shadow: var(--box-shadow);
+        margin-bottom: 40px;
+    }
+
+    .section-title {
+        font-size: 1.8rem;
+        font-weight: 700;
+        color: var(--dark-text);
+        margin-bottom: 25px;
+        position: relative;
+        padding-bottom: 15px;
+    }
+
+        .section-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 80px;
+            height: 4px;
+            background-color: var(--primary-color);
+            border-radius: 2px;
+        }
+
+    .review-item {
+        background-color: white;
+        padding: 20px;
+        border-radius: var(--border-radius);
+        box-shadow: var(--box-shadow);
+        margin-bottom: 20px;
+        transition: var(--transition);
+    }
+
+        .review-item:hover {
+            transform: translateY(-5px);
+        }
+
+    .review-header {
+        display: flex;
+        align-items: center;
+        margin-bottom: 15px;
+    }
+
+    .reviewer-avatar {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background-color: var(--accent-color);
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 700;
+        font-size: 1.2rem;
+        margin-right: 15px;
+    }
+
+    .reviewer-info {
+        flex-grow: 1;
+    }
+
+    .reviewer-name {
+        font-weight: 600;
+        font-size: 1.1rem;
+        margin-bottom: 5px;
+    }
+
+    .review-date {
+        color: var(--light-text);
+        font-size: 0.9rem;
+    }
+
+    .star-rating {
+        display: flex;
+        gap: 5px;
+        margin-bottom: 10px;
+    }
+
+        .star-rating .fas {
+            color: #ffc107;
+        }
+
+        .star-rating .far {
+            color: #e2e2e2;
+        }
+
+    .review-text {
+        font-size: 1rem;
+        line-height: 1.6;
+        color: var(--dark-text);
+    }
+
+    .review-form {
+        background-color: white;
+        padding: 30px;
+        border-radius: var(--border-radius);
+        box-shadow: var(--box-shadow);
+        margin-bottom: 40px;
+    }
+
+    .rating-select {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: flex-end;
+    }
+
+        .rating-select input {
+            display: none;
+        }
+
+        .rating-select label {
+            cursor: pointer;
+            font-size: 1.5rem;
+            color: #e2e2e2;
+            padding: 0 5px;
+        }
+
+            .rating-select label:hover,
+            .rating-select label:hover ~ label,
+            .rating-select input:checked ~ label {
+                color: #ffc107;
+            }
+
+    .product-card {
+        border: none;
+        border-radius: var(--border-radius);
+        overflow: hidden;
+        transition: var(--transition);
+        box-shadow: var(--box-shadow);
+        height: 100%;
+    }
+
+        .product-card:hover {
+            transform: translateY(-10px);
+        }
+
+        .product-card img {
+            height: 220px;
+            object-fit: cover;
+            transition: var(--transition);
+        }
+
+        .product-card:hover img {
+            transform: scale(1.05);
+        }
+
+        .product-card .card-body {
+            padding: 20px;
+        }
+
+        .product-card .card-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: var(--dark-text);
+        }
+
+        .product-card .card-text {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--secondary-color);
+            margin-bottom: 15px;
+        }
+
+    .btn-outline-primary {
+        border-color: var(--primary-color);
+        color: var(--primary-color);
+        border-radius: 20px;
+        padding: 8px 20px;
+        transition: var(--transition);
+    }
+
+        .btn-outline-primary:hover {
+            background-color: var(--primary-color);
+            color: white;
+        }
+
+    .out-of-stock {
+        background-color: #f8d7da;
+        color: #842029;
+        padding: 10px 15px;
+        border-radius: var(--border-radius);
+        margin-top: 10px;
+        font-weight: 600;
+    }
+</style>
+
+<!-- Breadcrumb Start -->
+<div class="breadcrumb-area mt-4">
+    <div class="container">
+        <div class="breadcrumb">
+            <ul class="d-flex align-items-center">
+                <li>@Html.ActionLink("Trang chủ", "Index", "Home")</li>
+                <li>@Html.ActionLink("Cửa hàng", "Shop", "Product")</li>
+                <li class="active">@Html.ActionLink(Model.TenSP, "ProductDetail", "Product", new { id = Model.MaSP }, new { })</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- Breadcrumb End -->
+<!-- Product Detail Start -->
+<div class="main-product-thumbnail py-5">
+    <div class="container">
+        <div class="row">
+            <!-- Product Image Start -->
+            <div class="col-lg-6 mb-4">
+                <div class="product-image-container">
+                    <img src="@Model.HinhAnh" alt="@Model.TenSP" class="product-image img-fluid">
+                </div>
+            </div>
+            <!-- Product Image End -->
+            <!-- Product Details Start -->
+            <div class="col-lg-6">
+                <div class="product-details">
+                    <h1 class="product-header">@Model.TenSP</h1>
+                    <div class="category-badge">@Model.DanhMuc.TenDanhMuc</div>
+
+                    <div class="price-tag">@string.Format(info, "{0:c0}", Model.Gia)</div>
+
+                    <div class="product-description">
+                        <p>@Model.MoTa</p>
+                    </div>
+
+                    <div class="product-options">
+                        <div class="row mb-4">
+                            <div class="col-md-6">
+                                <label class="option-label" for="modal-kichco-soluong">Kích cỡ</label>
+                                <select class="form-select" id="modal-kichco-soluong">
+                                    @foreach (var item in ViewBag.SPCT)
+                                    {
+                                        <option value="@item.IDCTSP">@item.KichCo.TenKichCo</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class="col-md-6">
+                                <label class="option-label">Màu sắc</label>
+                                <div class="d-flex align-items-center">
+                                    <div class="color-preview me-3" style="background-color: @Model.MaMau.Trim()"></div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mb-4">
+                            <label class="option-label" for="modal-soluong">Số lượng</label>
+                            @* Fix duplicate ID issue *@
+                            <div class="quantity-control">
+                                <button type="button" class="quantity-btn" onclick="decrementQuantity()"
+                                        aria-label="Decrease quantity">
+                                    -
+                                </button>
+                                <input type="text" id="modal-soluong" class="quantity-input" value="1" readonly="">
+                                <button type="button" class="quantity-btn" onclick="incrementQuantity()"
+                                        aria-label="Increase quantity">
+                                    +
+                                </button>
+                            </div>
+
+                        </div>
+                        @* Remove the duplicate quantity input *@
+                        <div class="box-quantity d-flex hot-product2">
+                            <div class="pro-actions">
+                                @if (ViewBag.Exitst.SoLuong > 0)
+                                {
+                                    <div class="actions-primary">
+                                        <button id="order-text" type="button" onclick="themVaoGioHang()"
+                                                class="add-cart" title="Thêm vào giỏ">
+                                            <i class="fas fa-shopping-cart"></i> Thêm vào giỏ
+                                        </button>
+                                    </div>
+                                    <div class="actions-secondary ms-2">
+                                        <button type="button" class="btn btn-outline-info" data-bs-toggle="modal" data-bs-target="#sizeGuideModal">
+                                            <i class="fas fa-ruler-combined"></i> Hướng dẫn chọn size
+                                        </button>
+                                    </div>
+
+                                }
+                                else
+                                {
+                                    <div class="actions-primary">
+                                        <button id="order-text" type="button" class="add-cart" disabled>
+                                            Hết hàng! Hãy chọn kích cỡ khác
+                                        </button>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Product Details End -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Product Detail End -->
+<!-- Product Information Tabs Start -->
+<div class="product-info-tabs py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <ul class="main-thumb-desc nav tabs-area" role="tablist">
+                    <li><a class="active" data-bs-toggle="tab" href="#dtail">Hướng dẫn sử dụng</a></li>
+                    <li><a data-bs-toggle="tab" href="#review">Chất liệu</a></li>
+                </ul>
+
+                <div class="tab-content thumb-content">
+                    <div id="dtail" class="tab-pane fade show active">
+                        <p>@Model.HuongDan</p>
+                    </div>
+                    <div id="review" class="tab-pane fade">
+                        <p>@Model.ChatLieu</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Product Information Tabs End -->
+<!-- Product Reviews Start -->
+<div class="product-reviews py-5">
+    <div class="container">
+        <h4>Đánh giá sản phẩm</h4>
+
+        @if (ViewBag.DanhGias != null && ViewBag.DanhGias.Count > 0)
+        {
+            foreach (var dg in ViewBag.DanhGias)
+            {
+                <div class="border p-3 mb-2 rounded bg-light">
+                    <strong>@dg.HoTen</strong>
+                    <span class="text-warning">
+                        @for (int i = 0; i < dg.SoSao; i++)
+                        {
+                            <i class="fas fa-star"></i>
+                        }
+                        @for (int i = dg.SoSao; i < 5; i++)
+                        {
+                            <i class="far fa-star"></i>
+                        }
+                    </span>
+                    <p class="mb-0">@dg.NoiDung</p>
+                    <small class="text-muted">@dg.NgayDanhGia.ToString("dd/MM/yyyy HH:mm")</small>
+                </div>
+            }
+        }
+        else
+        {
+            <p>Chưa có đánh giá nào cho sản phẩm này.</p>
+        }
+
+        <hr />
+
+        @if (Session[Nhom9.Session.ConstaintUser.USER_SESSION] != null)
+        {
+            <h5>Gửi đánh giá của bạn</h5>
+            <form id="reviewForm">
+                @Html.AntiForgeryToken()
+                @Html.Hidden("MaSP", Model.MaSP)
+                <input type="hidden" id="SoSao" name="SoSao" value="0" />
+
+                <div class="mb-3">
+                    <label for="HoTen" class="form-label">Tên của bạn</label>
+                    <input type="text" class="form-control" id="HoTen" name="HoTen" value="@User.Identity.Name" required />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Số sao:</label><br />
+                    <div id="starRating" style="font-size: 1.5rem; color: #FFD700; cursor: pointer;">
+                        @for (int i = 1; i <= 5; i++)
+                        {
+                            <i class="far fa-star" data-value="@i"></i>
+                        }
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <label for="NoiDung" class="form-label">Nội dung đánh giá</label>
+                    <textarea id="NoiDung" name="NoiDung" class="form-control" rows="4" required></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Gửi đánh giá</button>
+            </form>
+
+            @section scripts {
+                    <script>
+    $(document).ready(function () {
+        let selectedRating = 0;
+
+        $("#starRating i").on("mouseover", function () {
+            const value = parseInt($(this).data("value"));
+            $("#starRating i").each(function (index) {
+                if (index < value) {
+                    $(this).removeClass("far").addClass("fas");
+                } else {
+                    $(this).removeClass("fas").addClass("far");
+                }
+            });
+        });
+
+        $("#starRating i").on("click", function () {
+            selectedRating = parseInt($(this).data("value"));
+            $("#SoSao").val(selectedRating);
+
+            $("#starRating i").each(function (index) {
+                if (index < selectedRating) {
+                    $(this).removeClass("far").addClass("fas");
+                } else {
+                    $(this).removeClass("fas").addClass("far");
+                }
+            });
+        });
+
+        $("#starRating").on("mouseleave", function () {
+            $("#starRating i").each(function (index) {
+                if (index < selectedRating) {
+                    $(this).removeClass("far").addClass("fas");
+                } else {
+                    $(this).removeClass("fas").addClass("far");
+                }
+            });
+        });
+
+        $("#reviewForm").submit(function (e) {
+    e.preventDefault();
+
+    const rating = $("#SoSao").val();
+    if (rating == 0) {
+        alert("Bạn cần chọn số sao.");
+        return;
+    }
+
+    // Lấy token từ form
+    var token = $('input[name="__RequestVerificationToken"]').val();
+
+    $.ajax({
+        url: '@Url.Action("AddDanhGia", "Product")',
+        type: 'POST',
+        data: {
+            MaSP: $("input[name='MaSP']").val(),
+            HoTen: $("#HoTen").val(),
+            NoiDung: $("#NoiDung").val(),
+            SoSao: $("#SoSao").val(),
+            __RequestVerificationToken: token
+        },
+        success: function (response) {
+            if (response.success) {
+                const stars = Array(parseInt(response.danhGia.SoSao)).fill('<i class="fas fa-star"></i>').join('') +
+                       Array(5 - parseInt(response.danhGia.SoSao)).fill('<i class="far fa-star"></i>').join('');
+
+                const html = `
+                <div class="border p-3 mb-2 rounded bg-light">
+                    <strong>${response.danhGia.HoTen}</strong>
+                    <span class="text-warning">${stars}</span>
+                    <p class="mb-0">${response.danhGia.NoiDung}</p>
+                    <small class="text-muted">${response.danhGia.NgayDanhGia}</small>
+                </div>`;
+
+                if ($(".product-reviews p:contains('Chưa có đánh giá')").length > 0) {
+                    $(".product-reviews p:contains('Chưa có đánh giá')").replaceWith(html);
+                } else {
+                    $(".product-reviews hr").before(html);
+                }
+
+                $("#reviewForm")[0].reset();
+                selectedRating = 0;
+                $("#SoSao").val(0);
+                $("#starRating i").removeClass("fas").addClass("far");
+
+                alert(response.message);
+            } else {
+                alert(response.message);
+            }
+        },
+        error: function (xhr, status, error) {
+            console.error(xhr.responseText);
+            alert("Có lỗi xảy ra: " + xhr.statusText);
+        }
+    });
+});
+    });
+                    </script>
+            }
+
+
+        }
+        else
+        {
+            <div class="alert alert-warning">
+                Vui lòng <a href="@Url.Action("Login", "Home", new { returnUrl = Request.Url.PathAndQuery })" class="alert-link">đăng nhập</a> để gửi đánh giá.
+            </div>
+        }
+    </div>
+</div>
+<!-- Product Reviews End -->
+<!-- Size Guide Modal -->
+<div class="modal fade" id="sizeGuideModal" tabindex="-1" aria-labelledby="sizeGuideLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="sizeGuideLabel">Hướng Dẫn Chọn Size</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Đóng"></button>
+            </div>
+            <div class="modal-body">
+                <div class="table-responsive">
+                    <table class="table table-bordered text-center align-middle">
+                        <thead class="table-info">
+                            <tr>
+                                <th>Kích cỡ</th>
+                                <th>Chiều cao (cm)</th>
+                                <th>Số đo ngực (cm)</th>
+                                <th>Số đo eo bé trai (cm)</th>
+                                <th>Số đo eo bé gái (cm)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr><td>S</td><td>90-100</td><td>47-50</td><td>46-49</td><td>44-47</td></tr>
+                            <tr><td>M</td><td>95-105</td><td>49-55</td><td>47-53</td><td>45-51</td></tr>
+                            <tr><td>L</td><td>105-115</td><td>53-59</td><td>49-55</td><td>47-53</td></tr>
+                            <tr><td>XL</td><td>115-125</td><td>57-63</td><td>51-57</td><td>49-55</td></tr>
+                            <tr><td>XXL</td><td>125-135</td><td>61-67</td><td>53-59</td><td>51-57</td></tr>
+                            <tr><td>XXXL</td><td>155-165</td><td>76-82</td><td>60-66</td><td>58-64</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+                <p class="text-muted text-center mt-3">*Thông tin chỉ mang tính tham khảo, bạn nên chọn size theo thói quen mặc rộng hoặc vừa của bé/người mặc.</p>
+
+                <hr class="my-4">
+
+                <h5 class="text-center">Cách Đo Tỉ Lệ Cơ Thể</h5>
+                <div class="row align-items-center mt-3">
+                    <div class="col-md-5 text-center">
+                        <img src="~/UserImage/images/kichthuoccothe.png" alt="Hướng dẫn đo cơ thể" class="img-fluid rounded shadow">
+                    </div>
+                    <div class="col-md-7">
+                        <p><strong>A. Chiều cao:</strong> Đo chiều dài từ đầu đến chân khi đứng thẳng.</p>
+                        <p><strong>B. Ngực:</strong> Đo ngang ngực bắt đầu từ dưới nách.</p>
+                        <p><strong>C. Vòng eo:</strong> Đo ngang eo bắt đầu từ điểm nằm giữa phần dưới của xương sườn và phần trên của hông. Tùy thuộc vào sản phẩm, phần eo của sản phẩm có thể được thiết kế để mặc thấp hơn thắt lưng.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    // Quantity control functions
+    function incrementQuantity() {
+        const input = document.getElementById('modal-soluong');
+        let value = parseInt(input.value);
+        input.value = value + 1;
+    }
+    function decrementQuantity() {
+        const input = document.getElementById('modal-soluong');
+        let value = parseInt(input.value);
+        if (value > 1) {
+            input.value = value - 1;
+        }
+    }
+</script>
